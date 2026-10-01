@@ -1,8 +1,10 @@
 ---
 name: what-is-politics
 description: Knowledge base for the What-Is-Politics expert. Use when answering deep questions about the definition, understanding, application and importance of politics, or when the user asks for sources, quotations and evidence.
-description_zh: 「什么是政治」专家的知识库。回答政治的定义、理解、应用、重要性等深问题，或用户要求给出出处、引文、论据时使用。
-description_en: Knowledge base for the What-Is-Politics expert. Use when answering deep questions about the definition, understanding, application and importance of politics, or when the user asks for sources, quotations and evidence.
+description_zh: "「什么是政治」专家的知识库。回答政治的定义、理解、应用、重要性等深问题，或用户要求给出出处、引文、论据时使用。"
+description_en: "Knowledge base for the What-Is-Politics expert. Use when answering deep questions about the definition, understanding, application and importance of politics, or when the user asks for sources, quotations and evidence."
+display_name: 什么是政治知识库
+display_name_en: "What Is Politics Knowledge Base"
 ---
 
 # "什么是政治"知识库
