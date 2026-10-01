@@ -1,0 +1,65 @@
+{
+  "name": "what-is-politics",
+  "version": "1.1.1",
+  "description": "An expert that explains what politics really is in plain everyday language, distilling it to 'relationships and attitudes' and applying it to daily life and work.",
+  "author": {
+    "name": "天工创新坊",
+    "email": "gouzhongwu@vip.qq.com"
+  },
+  "agents": [
+    "./agents/what-is-politics.md"
+  ],
+  "skills": [
+    "./skills/what-is-politics",
+    "./skills/question-relay"
+  ],
+  "expertType": "agent",
+  "agentName": "what-is-politics",
+  "displayName": {
+    "en": "Plain-Talk Politics Preacher",
+    "zh": "白话政治宣讲员"
+  },
+  "profession": {
+    "en": "What Is Politics",
+    "zh": "什么是政治"
+  },
+  "displayDescription": {
+    "en": "Explains politics in plain everyday language and brings it into your own life - your world, your way of living and your future will never look the same.",
+    "zh": "用百姓能听懂的话讲清什么是政治，让政治走入你的生活！你的世界、你的活法、你的人生因此而不同了！"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "政治到底是什么？怎么定义的？",
+    "en": "What exactly is politics? How is it defined?"
+  },
+  "plugin": "what-is-politics",
+  "tags": [
+    {
+      "en": "Political Literacy",
+      "zh": "政治通识"
+    },
+    {
+      "en": "Plain-Talk Explanation",
+      "zh": "白话解读"
+    },
+    {
+      "en": "Life Strategy",
+      "zh": "处世方法论"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "What exactly is politics? How is it defined?",
+      "zh": "政治到底是什么？怎么定义的？"
+    },
+    {
+      "en": "What does politics have to do with me?",
+      "zh": "政治和我有什么关系？"
+    },
+    {
+      "en": "How can a person improve their political ability?",
+      "zh": "一个人如何提高政治能力？"
+    }
+  ]
+}
